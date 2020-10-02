@@ -16,8 +16,6 @@
 
 # Services used 
 - GOOGLE Charts
-- Geocoder API
-- DistanceMatrixService API
-- Places Autocomplete API
-- DirectionsService API
-- DirectionsRenderer API
+
+# TUTORIALS Links
+https://www.youtube.com/watch?v=z0oCCGj2fRE 
